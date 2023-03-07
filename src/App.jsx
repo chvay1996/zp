@@ -34,9 +34,9 @@ function App() {
           <Input value={curs} setValue={setCurs} type="number" />
         </div>
         <div className="zp">
-          <h3>Введите вашу ЗП в $</h3>
+          <h3>Введите вашу ЗП в $ </h3>
           <Input value={text} setValue={setText} type="number" />
-          <h3>в рублях {rubl()}</h3>
+          <h3> в рублях {rubl()}</h3>
         </div>
         <div className="zp">
           <h3>Введите количество полных дней</h3>
