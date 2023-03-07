@@ -1,5 +1,5 @@
 body {
-  font-size: 16px;
+  font-size: 13px;
   font-family: "Vibur", sans-serif;
   color: wheat;
   text-shadow: 0 0 7px wheat, 0 0 10px wheat, 0 0 21px wheat, 0 0 42px #0fa,
@@ -8,8 +8,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%;
-  height: 1080px;
+  width: 500px;
+  height: 700px;
   background: linear-gradient(to bottom right, #3e3eeb, #e7a2ae);
   background-position: left bottom;
   background-size: cover;
@@ -18,8 +18,8 @@ body {
 }
 .App {
   box-shadow: 5px 3px 4px 2px rgb(136, 255, 0);
-  width: 500px;
-  height: 700px;
+  width: 390px;
+  height: 500px;
   background: linear-gradient(to bottom right, #0d9c03, #474765);
   border-radius: 20px;
   display: flex;
